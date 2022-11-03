@@ -6,5 +6,6 @@ int main()
 {
 	cout << "hello Git!" << endl;
 	cout << "changes in github repository" << endl;
-	return 0;
+	cout << "Changes in git cmd" << endl;
+		return 0;
 }
